@@ -1,0 +1,2 @@
+%{"ranch": {:hex, :ranch, "1.0.0"},
+  "sbroker": {:hex, :sbroker, "0.4.0"}}
